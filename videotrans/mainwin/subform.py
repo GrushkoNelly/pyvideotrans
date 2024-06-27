@@ -1,0 +1,1 @@
+# Data too long. Original file: https://github.com/jianchang512/pyvideotrans/videotrans/mainwin/subform.py
